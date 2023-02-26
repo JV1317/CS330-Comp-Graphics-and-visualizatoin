@@ -19,4 +19,6 @@ aspects from the weeks lessons to my project. </p>
 <p>When working on a 3D scene there are many aspects that need to be considered. Object placement on thee seperate axis as well as camera placement and vertex data are all considerations that need to be made. When first coming into this class the primary form of visualization I had worked with was ouput formatting to be pleasing to the eyse. This takes this to a whole new level and new stategies needed to be developed to take all these new aspects into consideration. These new stratagies included visualizing the objects on the screen and their relation to space and camera placement.</p>
 
 ### How did iteration factor into your development?
-<p> </p>
+<p>Iteration played a huge role in the development of the project. Each module built on the last, starting with how to render a basic window and add to it from there. So with every iteration and new concept that was added each week I added those new concepts to my project. </p>
+
+###
