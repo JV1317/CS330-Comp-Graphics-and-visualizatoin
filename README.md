@@ -16,4 +16,7 @@ aspects from the weeks lessons to my project. </p>
 
 ## How do I approach developing programs?
 ### What new development strategies did you use while working on your 3D scene?
-<p>Learning about shaders and buffer objects were new to me coming into the course.  </p>
+<p>When working on a 3D scene there are many aspects that need to be considered. Object placement on thee seperate axis as well as camera placement and vertex data are all considerations that need to be made. When first coming into this class the primary form of visualization I had worked with was ouput formatting to be pleasing to the eyse. This takes this to a whole new level and new stategies needed to be developed to take all these new aspects into consideration. These new stratagies included visualizing the objects on the screen and their relation to space and camera placement.</p>
+
+###How did iteration factor into your development?
+<p> </p>
