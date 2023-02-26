@@ -24,4 +24,9 @@ aspects from the weeks lessons to my project. </p>
 ### How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 <p>This has a close relation to how iteration played a role in the projects completion. When each new concept we learned such as camera position lighting etc. the developing approach would need to change in order to adjust for these new concepts. For example, when lighting was introduced, not only did we have to add normalized paramaters for the verticies we also now had to consider how that light would react with our objects. </p>
 
+## How can computer science help me in reaching my goals?
+### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+<p>The skills gained in this class provided me with insights outside of the usual programming concepts I have become used to working with. I think this provies a more well rounded education and will go far in helping me acheive my educatioinal goals.  </p>
 
+### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+<p>Possessing the knowledge gained from this class will help make me a more well rounded and sought after candidate in the job market. Possessing this knowledge will help aid in my future professional prospects.  </p>
