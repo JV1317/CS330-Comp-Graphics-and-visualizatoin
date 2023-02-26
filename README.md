@@ -21,4 +21,7 @@ aspects from the weeks lessons to my project. </p>
 ### How did iteration factor into your development?
 <p>Iteration played a huge role in the development of the project. Each module built on the last, starting with how to render a basic window and add to it from there. So with every iteration and new concept that was added each week I added those new concepts to my project. </p>
 
-###
+### How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+<p>This has a close relation to how iteration played a role in the projects completion. When each new concept we learned such as camera position lighting etc. the developing approach would need to change in order to adjust for these new concepts. For example, when lighting was introduced, not only did we have to add normalized paramaters for the verticies we also now had to consider how that light would react with our objects. </p>
+
+
